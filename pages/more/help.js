@@ -63,7 +63,7 @@ Page({
   onShareAppMessage: function () {
     return {
       title: '教学课表',
-      desc: '「教学课表」提供烟台大学文经学院在校生班级与教师课表和空闲教室、图书馆藏及考试安排等查询服务。',
+      desc: '「教学课表」提供大学学院在校生班级与教师课表和空闲教室、图书馆藏及考试安排等查询服务。',
       path: '/pages/index/index'
     }
   }
