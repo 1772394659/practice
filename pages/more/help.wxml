@@ -10,13 +10,13 @@
       <view class="weui-article__section">
         <view class="weui-article__h3">1.1 获取每日课程</view>
         <view class="weui-article__p">
-          如果没有绑定班级，可以在文经课表首页点击「绑定班级，获取每日课程信息」按钮，设置绑定班级，以后每节课之前都会提示要上的课程。
+          如果没有绑定班级，可以在教学课表首页点击「绑定班级，获取每日课程信息」按钮，设置绑定班级，以后每节课之前都会提示要上的课程。
         </view>
       </view>
       <view class="weui-article__section">
         <view class="weui-article__h3">1.2 添加到桌面</view>
         <view class="weui-article__p">
-          如果是安卓手机，在文经课表中点击右上角「···」，点击添加到桌面，即可将文经课表添加到桌面，之后直接在桌面点击文经课表即可进入。
+          如果是安卓手机，在教学课表中点击右上角「···」，点击添加到桌面，即可将教学课表添加到桌面，之后直接在桌面点击教学课表即可进入。
         </view>
       </view>
       <view class="weui-article__section">
